@@ -113,6 +113,7 @@ Percebeu? Isso nao altera a lista original, ele apenas itera a lista original pa
        //lista recebe uma nova lista apenas com as palavras que possuem tamanho > 6
        lista  = lista.stream().filter(s -> s.length() > 6).collect(Collectors.toList());
 
-Resultando na nova lista: [Chocolate, Strogonoff]
+Resultando na nova lista
 
-Process finished with exit code 0
+Resultado: [Chocolate, Strogonoff]
+
