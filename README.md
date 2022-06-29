@@ -103,6 +103,7 @@ Chocolate
 Strogonoff
 
 Mas observe como ficou a lista apos o uso do filter
+
 Resultado: [Chocolate, Ovo, Queijo, Strogonoff]
 
 ATENÇÃO!
