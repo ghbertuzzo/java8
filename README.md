@@ -22,8 +22,11 @@ Algumas funcionalidades introduzidas no JAVA 8:
 Resulta em:
 
 Chocolate
+
 Queijo
+
 Strogonoff
+
 Ovo
 
 4 - Printando a lista com forEach + lambda: 
@@ -33,8 +36,11 @@ Ovo
 Resulta em:
 
 Chocolate
+
 Queijo
+
 Strogonoff
+
 Ovo
 
 5 - Agora vamos ordenar a lista pelo tamanho da palavra do modo antigo, criando um Comparator e sobrescrevendo o metodo sort:
