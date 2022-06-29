@@ -15,9 +15,9 @@ Algumas funcionalidades introduzidas no JAVA 8:
 
 3 - Printando a lista modo tradicional: 
 
-   for(String string: lista){
-       System.out.println(string);
-   }  
+      for(String string: lista){
+            System.out.println(string);
+      }  
 
 Resulta em: 
 Chocolate
@@ -27,7 +27,7 @@ Ovo
 
 4 - Printando a lista com forEach + lambda: 
 
-[ lista.forEach(s -> System.out.println(s)); ] 
+            lista.forEach(s -> System.out.println(s));
 
 Resulta em: 
 Chocolate
