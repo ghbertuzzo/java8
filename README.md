@@ -4,14 +4,14 @@ Algumas funcionalidades introduzidas no JAVA 8:
 
 1 - Primeiro vamos criar uma lista:
 
-List<String> lista = new ArrayList<String>(); 
+      List<String> lista = new ArrayList<String>(); 
 
 2 - Agora adicionamos alguns elementos: 
 
-lista.add("Chocolate");
-lista.add("Queijo");
-lista.add("Strogonoff"); 
-lista.add("Ovo");
+      lista.add("Chocolate");
+      lista.add("Queijo");
+      lista.add("Strogonoff"); 
+      lista.add("Ovo");
 
 3 - Printando a lista modo tradicional: 
 
