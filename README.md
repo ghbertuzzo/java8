@@ -19,7 +19,8 @@ Algumas funcionalidades introduzidas no JAVA 8:
             System.out.println(string);
       }  
 
-Resulta em: 
+Resulta em:
+
 Chocolate
 Queijo
 Strogonoff
@@ -29,7 +30,8 @@ Ovo
 
             lista.forEach(s -> System.out.println(s));
 
-Resulta em: 
+Resulta em:
+
 Chocolate
 Queijo
 Strogonoff
