@@ -102,9 +102,10 @@ Resultado:
 Chocolate
 Strogonoff
 
-Mas observe como ficou a lista apos o uso do filter: [Chocolate, Ovo, Queijo, Strogonoff]
+Mas observe como ficou a lista apos o uso do filter
+Resultado: [Chocolate, Ovo, Queijo, Strogonoff]
 
-ATENCAO!
+ATENÇÃO!
 
 Percebeu? Isso nao altera a lista original, ele apenas itera a lista original para utiliza-la, caso deseje aplicar as alteracoes na lista original, pegue a referencia da lista e invoque o metodo .collect que retornara algum tipo de collection (por exemplo um List() com o metodo .collect(Collectors.toList());
 
